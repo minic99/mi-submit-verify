@@ -1,0 +1,24 @@
+{
+  "name": "mi-submit-verify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/minic99/mi-submit-verify"
+  },
+  "author": "minic99",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/minic99/mi-submit-verify/issues"
+  },
+  "homepage": "https://github.com/minic99/mi-submit-verify",
+  "dependencies": {
+    "dayjs": "^1.11.9",
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.3"
+  }
+}
